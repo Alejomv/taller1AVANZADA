@@ -19,3 +19,4 @@ const calcularTemperaturaMediaLuna = ({ temperaturaMaxima, temperaturaMinima }) 
     const temperaturaMediaLuna = calcularTemperaturaMediaLuna(dia);
     console.log(`Temperatura media de la luna el ${dia.dia}: ${temperaturaMediaLuna}°C`);
   });
+
